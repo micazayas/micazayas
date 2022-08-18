@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
+  ![Profile views](https://gpvc.arturio.dev/micazayas)  
   
 </div>
 
